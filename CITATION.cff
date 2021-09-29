@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Leandro Brito do Nascimento Nogueira"
+    given-names: Aikid
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/aikid/fuzzyscript"
+title: FuzzyScript
+version: "1.0"
+...
